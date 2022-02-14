@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+……でもね、いくら過去に戻れても、意味はないんだ。 
+だって、過去で何をしたところで、未来が変えられるわけじゃないんだから。 
+少なくとも私はそうだったし、私の前にこれを持っていた人も、そうだって言ってた。 
+確定した未来は変わらない。そのことだけは覚えておいて。
 
 <!--
 **scientificworld/scientificworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
