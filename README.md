@@ -8,6 +8,8 @@
 
 確定した未来は変わらない。そのことだけは覚えておいて。
 
+<p align="right">——『できない私が、くり返す。』古川 漣</p>
+
 <!--
 **scientificworld/scientificworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
